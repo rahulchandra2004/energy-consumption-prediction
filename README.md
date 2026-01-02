@@ -39,7 +39,7 @@ The dataset used is **[Energy Data Complete](https://archive.ics.uci.edu/ml/data
    *(Create a `requirements.txt` with packages like `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow`.)*
 3. Run the script:
    ```bash
-   python energy_prediction.py
+   python Rahul_Energy_Consumption_prediction.py
    ```
 
 ---
